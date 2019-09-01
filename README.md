@@ -55,6 +55,29 @@ Disparity and Optical Flow Estimation?](https://lmb.informatik.uni-freiburg.de/P
 ## [DatasetList](https://www.datasetlist.com/)
 
 
+# Relevant papers for CV tasks
+
+## Architectures
+
+[Multitaks Multisensor Fusioni for 3D object detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)
+
+[Improving semantic segmentation via video propagation and label relaxation](https://arxiv.org/pdf/1812.01593v3.pdf)
+[Points as Objects](https://arxiv.org/pdf/1904.07850.pdf)
+
+## Augmentation Strategies
+
+
+
 # 3D models
 
 ## [3dscan](http://redwood-data.org/3dscan/)
+
+
+
+# General tools for CV pipeline
+
+## Unreal
+[UnrealROX](https://github.com/3dperceptionlab/unrealrox) - for training virtual robots
+[UnrealEginePython](https://github.com/20tab/UnrealEnginePython)
+## 3D scanning
+[MeshRoom](https://github.com/alicevision/meshroom) - open source
