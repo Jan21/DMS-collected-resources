@@ -54,6 +54,29 @@ Disparity and Optical Flow Estimation?](https://lmb.informatik.uni-freiburg.de/P
 
 ## [DatasetList](https://www.datasetlist.com/)
 
+## Night and wheather
+
+[A\*3D](https://github.com/I2RDL2/ASTAR-3D)
+[CACD](http://cadcd.uwaterloo.ca/) (weather)
+[BDD](https://bdd-data.berkeley.edu/wad-2018.html)
+[apolloscape](http://apolloscape.auto/trajectory.html)
+[boxy](https://boxy-dataset.com/boxy/)
+[mapillary vistas](https://www.mapillary.com/dataset/vistas?pKey=xyW6a0ZmrJtjLw2iJ71Oqg)
+[multispectral all-day](https://sites.google.com/view/multispectral/)
+[JAAD](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
+[HCI](https://hci.iwr.uni-heidelberg.de/benchmarks/Challenging_Data_for_Stereo_and_Optical_Flow)
+[Electra](http://adas.cvc.uab.es/elektra/datasets/)
+[EISATS](https://ccv.wordpress.fos.auckland.ac.nz/eisats/)
+[DR(eye)VE](http://imagelab.ing.unimore.it/dreyeve)
+[DAVIS](https://docs.google.com/document/d/1HM0CSmjO8nOpUeTvmPjopcBcVCk7KXvLUuiZFS6TWSg/pub)
+[COMMAAI](http://research.comma.ai/)
+[DEEP DRIVE](https://bdd-data.berkeley.edu/)
+[AGROVERSE](https://www.argoverse.org/)
+
+
+
+
+
 
 # Relevant papers for CV tasks
 
